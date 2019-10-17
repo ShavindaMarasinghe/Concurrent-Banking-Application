@@ -1,0 +1,35 @@
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\bin\Debug\client.exe.config
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\bin\Debug\client.exe
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\bin\Debug\client.pdb
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\obj\Debug\client.exe
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\obj\Debug\client.pdb
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\bin\Debug\client.exe.config
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\bin\Debug\client.exe
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\bin\Debug\client.pdb
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\obj\Debug\client.exe
+C:\Users\Izzath\Documents\APIIT\SHAAKI\cna\cb007576\client\client\obj\Debug\client.pdb
+C:\Users\SHAAKIRA\Desktop\CB007576(CNA)\cb007576\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\SEVRO\Desktop\cb007576\client\client\bin\Debug\client.exe.config
+C:\Users\SEVRO\Desktop\cb007576\client\client\bin\Debug\client.exe
+C:\Users\SEVRO\Desktop\cb007576\client\client\bin\Debug\client.pdb
+C:\Users\SEVRO\Desktop\cb007576\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\SEVRO\Desktop\cb007576\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\SEVRO\Desktop\cb007576\client\client\obj\Debug\client.exe
+C:\Users\SEVRO\Desktop\cb007576\client\client\obj\Debug\client.pdb
+E:\dilupa\client\client\bin\Debug\client.exe.config
+E:\dilupa\client\client\bin\Debug\client.exe
+E:\dilupa\client\client\bin\Debug\client.pdb
+E:\dilupa\client\client\obj\Debug\client.csprojAssemblyReference.cache
+E:\dilupa\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\dilupa\client\client\obj\Debug\client.exe
+E:\dilupa\client\client\obj\Debug\client.pdb
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\bin\Debug\client.exe.config
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\bin\Debug\client.exe
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\bin\Debug\client.pdb
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\obj\Debug\client.exe
+C:\Users\SHAVINDA\Desktop\CB007297-CNA Assignment Final\client\client\obj\Debug\client.pdb
